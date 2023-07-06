@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+*p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+#mastermind{
+    background-color: black;
+    height: 20px;
+    width: 20x;
+    color: #ddd;
+    align-items: center;
+
+}
+
+#mastermind p{
+
+    text-align: center;
+}
+
+header h2{
+    color: violet;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+}
+
+
+
+.bg{
+    height: 500px;
+    width: 500px;
+    background-image: url(../images/peakpx.jpg);
+    background-position: center;
+    background-size: auto;
+    text-align: center;
+}
+
+.box{
+    padding: 10px;
+    margin: 10px;
+    height: 600px;
+    width: 600px;
+    background-color: bisque;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10%;
+    box-shadow: 10px 15px 50px 20px;    
+}
+
+.box p{
+    color: black;
+    font-weight: 300;
+    justify-content: center;
+}
